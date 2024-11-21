@@ -18,6 +18,7 @@ This project demonstrates the deployment of a highly available multi-tier archit
 - **Languages:** PHP (for deployed application)  
 
 ## **Architecture Diagram**  
+![MULTI TIER INFRA](https://github.com/user-attachments/assets/0cff3ce8-36e8-4b16-b1bc-0a55aea5bf6d)
 
 
 ## **Project Structure**  
