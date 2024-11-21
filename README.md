@@ -18,7 +18,7 @@ This project demonstrates the deployment of a highly available multi-tier archit
 - **Languages:** PHP (for deployed application)  
 
 ## **Architecture Diagram**  
-[Include a visual diagram here if possible. Tools like Lucidchart or draw.io can help.]  
+
 
 ## **Project Structure**  
 ```plaintext
